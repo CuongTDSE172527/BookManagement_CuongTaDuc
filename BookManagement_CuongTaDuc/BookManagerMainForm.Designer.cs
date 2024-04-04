@@ -66,9 +66,9 @@
             lblCopyright.ForeColor = Color.Yellow;
             lblCopyright.Location = new Point(22, 464);
             lblCopyright.Name = "lblCopyright";
-            lblCopyright.Size = new Size(124, 19);
+            lblCopyright.Size = new Size(83, 19);
             lblCopyright.TabIndex = 1;
-            lblCopyright.Text = "© 2024 giáo.làng";
+            lblCopyright.Text = "© 2024 CJF";
             // 
             // grbSearchCriteria
             // 
